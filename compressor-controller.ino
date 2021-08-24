@@ -17,7 +17,7 @@ const char compile_date[] = __DATE__ " " __TIME__;
 #define PUSH_BUTTON_UPDATE_INTERVAL_MS 333
 #define PURGE_DELAY_MS 1000
 #define UPDATE_SERVER "http://192.168.100.15/firmware/"
-#define FIRMWARE_VERSION "-1.04"
+#define FIRMWARE_VERSION "-1.05"
 
 /****************************** MQTT TOPICS (change these topics as you wish)  ***************************************/
 
